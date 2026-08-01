@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/soumya526/DSA/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
