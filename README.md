@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/soumya526/DSA/tree/master/0071-simplify-path) |
+| [0345-reverse-vowels-of-a-string](https://github.com/soumya526/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/soumya526/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
