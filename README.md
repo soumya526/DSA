@@ -7,11 +7,13 @@
 | [0001-two-sum](https://github.com/soumya526/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soumya526/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/soumya526/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soumya526/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soumya526/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -41,8 +43,17 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumya526/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/soumya526/DSA/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
