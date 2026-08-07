@@ -34,10 +34,12 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/soumya526/DSA/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/soumya526/DSA/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/soumya526/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
