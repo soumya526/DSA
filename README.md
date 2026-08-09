@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumya526/DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/soumya526/DSA/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
