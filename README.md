@@ -68,4 +68,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumya526/DSA/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/soumya526/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
