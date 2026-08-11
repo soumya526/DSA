@@ -59,6 +59,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/soumya526/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/soumya526/DSA/tree/master/0077-combinations) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/soumya526/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
