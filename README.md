@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/soumya526/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soumya526/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/soumya526/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/soumya526/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 ## Interactive
 |  |
 | ------- |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
