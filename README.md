@@ -16,11 +16,13 @@
 | [0073-set-matrix-zeroes](https://github.com/soumya526/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/soumya526/DSA/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumya526/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/soumya526/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
