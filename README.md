@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/soumya526/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soumya526/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
 | [0303-range-sum-query-immutable](https://github.com/soumya526/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/soumya526/DSA/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumya526/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/soumya526/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/soumya526/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 | ------- |
 | [0077-combinations](https://github.com/soumya526/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
 ## Interactive
 |  |
 | ------- |
@@ -96,4 +100,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/soumya526/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
