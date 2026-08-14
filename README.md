@@ -18,12 +18,14 @@
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/soumya526/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/soumya526/DSA/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumya526/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/soumya526/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -85,8 +87,13 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/soumya526/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/soumya526/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
