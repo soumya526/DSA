@@ -86,6 +86,7 @@
 | [0077-combinations](https://github.com/soumya526/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/soumya526/DSA/tree/master/0401-binary-watch) |
 ## Interactive
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | ------- |
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/soumya526/DSA/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/soumya526/DSA/tree/master/0401-binary-watch) |
 ## Queue
 |  |
 | ------- |
