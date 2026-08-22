@@ -112,11 +112,13 @@
 | [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/soumya526/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumya526/DSA/tree/master/0210-course-schedule-ii) |
+| [0404-sum-of-left-leaves](https://github.com/soumya526/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/soumya526/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soumya526/DSA/tree/master/0210-course-schedule-ii) |
+| [0404-sum-of-left-leaves](https://github.com/soumya526/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -131,4 +133,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/soumya526/DSA/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/soumya526/DSA/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/soumya526/DSA/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
