@@ -31,6 +31,7 @@
 | [0383-ransom-note](https://github.com/soumya526/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/soumya526/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/soumya526/DSA/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/soumya526/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0002-add-two-numbers](https://github.com/soumya526/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/soumya526/DSA/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/soumya526/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/soumya526/DSA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/soumya526/DSA/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/soumya526/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Queue
 |  |
 | ------- |
