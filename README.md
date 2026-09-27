@@ -60,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/soumya526/DSA/tree/master/0086-partition-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumya526/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumya526/DSA/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/soumya526/DSA/tree/master/0086-partition-list) |
 ## Backtracking
 |  |
 | ------- |
