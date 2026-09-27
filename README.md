@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/soumya526/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/soumya526/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0303-range-sum-query-immutable](https://github.com/soumya526/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -71,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/soumya526/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/soumya526/DSA/tree/master/0374-guess-number-higher-or-lower) |
