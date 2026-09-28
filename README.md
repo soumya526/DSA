@@ -35,6 +35,7 @@
 | [0389-find-the-difference](https://github.com/soumya526/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soumya526/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/soumya526/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/soumya526/DSA/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0009-palindrome-number](https://github.com/soumya526/DSA/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soumya526/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/soumya526/DSA/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/soumya526/DSA/tree/master/0409-longest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/soumya526/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
