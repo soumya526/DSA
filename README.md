@@ -12,6 +12,7 @@
 | [0303-range-sum-query-immutable](https://github.com/soumya526/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/soumya526/DSA/tree/master/0414-third-maximum-number) |
 | [0733-flood-fill](https://github.com/soumya526/DSA/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/soumya526/DSA/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/soumya526/DSA/tree/master/0414-third-maximum-number) |
 ## Linked List
 |  |
 | ------- |
