@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soumya526/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/soumya526/DSA/tree/master/0090-subsets-ii) |
 | [0303-range-sum-query-immutable](https://github.com/soumya526/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -100,6 +101,7 @@
 | [0077-combinations](https://github.com/soumya526/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/soumya526/DSA/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/soumya526/DSA/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/soumya526/DSA/tree/master/0401-binary-watch) |
 ## Interactive
 |  |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/soumya526/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/soumya526/DSA/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/soumya526/DSA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/soumya526/DSA/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soumya526/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
