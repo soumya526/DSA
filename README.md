@@ -58,6 +58,7 @@
 | [0326-power-of-three](https://github.com/soumya526/DSA/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soumya526/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/soumya526/DSA/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/soumya526/DSA/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/soumya526/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/soumya526/DSA/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
