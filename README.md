@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/soumya526/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/soumya526/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/soumya526/DSA/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soumya526/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0733-flood-fill](https://github.com/soumya526/DSA/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/soumya526/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/soumya526/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/soumya526/DSA/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/soumya526/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
