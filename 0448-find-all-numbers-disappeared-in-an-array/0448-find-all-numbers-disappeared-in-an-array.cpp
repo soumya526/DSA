@@ -1,11 +1,7 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        int maxi=0;
         int n=nums.size();
-        for(int i=0;i<n;i++){
-            maxi=max(maxi,nums[i]);
-        }
         unordered_set<int>m;
         vector<int>ans;
         for(int i=0;i<n;i++){
