@@ -41,6 +41,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soumya526/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/soumya526/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/soumya526/DSA/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/soumya526/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Stack
 |  |
 | ------- |
@@ -181,4 +182,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/soumya526/DSA/tree/master/0455-assign-cookies) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/soumya526/DSA/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/soumya526/DSA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/soumya526/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
